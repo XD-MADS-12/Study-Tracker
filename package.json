@@ -2,7 +2,7 @@
   "name": "Study-Tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://XD-MADS-12.github.io/Study-Tracker",
+  "homepage": "https://xd-mads-12.github.io/Study-Tracker/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
